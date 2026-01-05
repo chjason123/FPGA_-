@@ -77,7 +77,9 @@
 ## **4. 波型**
 #### **4.1 提早打**
 <img width="908" height="207" alt="image" src="https://github.com/user-attachments/assets/e645dda6-1a5c-401d-887d-bf9e565293e2" />
+
 #### **4.1 沒打**
+
 <img width="1858" height="262" alt="image" src="https://github.com/user-attachments/assets/d56e1012-25f2-4309-aae5-fb50e2f2442f" />
 <img width="1868" height="211" alt="image" src="https://github.com/user-attachments/assets/67cb82cf-377c-4903-a1be-e7760c9d1a56" />
 
