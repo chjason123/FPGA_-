@@ -226,6 +226,8 @@ END VGA_Singal;
    - 得分數字清晰
 
 ---
-## **5. 影片**
+## **5. 實體**
+### **圖片**
+   <img width="1107" height="632" alt="image" src="https://github.com/user-attachments/assets/e68e4664-c7ed-42e1-9cff-c38667ec9393" />
 
 - [實際效果展示：PingPong 與 VGA 整合系統](https://youtu.be/8vFZlQKJ_cQ)
