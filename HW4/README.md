@@ -138,7 +138,7 @@ END VGA_Singal;
 ## **6. 圖片**
 <img width="990" height="786" alt="image" src="https://github.com/user-attachments/assets/7bee25e0-5616-44cb-bba6-75441b9bdf26" />
 
-# **PingPong 與 VGA 整合
+# **PingPong 與 VGA 整合**
 
 ---
 
